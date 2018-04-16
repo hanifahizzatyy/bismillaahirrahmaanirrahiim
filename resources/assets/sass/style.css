@@ -1,0 +1,31 @@
+.jumbotron {
+  background-color: maroon ;
+  color: #ffffff ;
+  padding : 100px 25px ;
+}
+
+.container-fluid {
+  padding : 60px 50px;
+  
+}
+
+.bg-gray {
+ background-color: #f6f6f6 ;
+}
+
+.logo-big{
+ font-size: 200px;
+ color : maroon;
+}
+
+.logo-small{
+ font-size: 50px;
+color : maroon;
+}
+
+h2 {
+ font-size; 24px;
+ text-transform :uppercase ;
+ color: maroon;
+}
+<!-- #f4511e -->
